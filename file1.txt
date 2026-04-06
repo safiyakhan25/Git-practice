@@ -1,6 +1,7 @@
 this is from master
 this is from branch
 Added from GitHub
-Change frim Dev B
+Change from Dev B
 Feature PR work
 master new work
+
